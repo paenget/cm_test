@@ -1,6 +1,5 @@
 const ChartMogul = require('chartmogul-node');
 const config = new ChartMogul.Config('fdb60236bbd921ae4a38a1c730f862ee', '91afca0b149c4041a464356c6a374998');
-const axios = require('axios')
 
 var customers = []
 
